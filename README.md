@@ -14,3 +14,5 @@ This data science project is on Covid-19 data analysis using Python and Tableau.
   8. Change Datatype of a column
   9. Data Organization
   10. Data Analysis with Tableau
+  
+  Tableau Dashboard Link : https://public.tableau.com/profile/deepanshu5166#!/vizhome/covid_19_16054339105830/Dashboard1
